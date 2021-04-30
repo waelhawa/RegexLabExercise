@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\bin\Debug\netcoreapp3.1\RegexLabExercise.exe
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\bin\Debug\netcoreapp3.1\RegexLabExercise.deps.json
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\bin\Debug\netcoreapp3.1\RegexLabExercise.runtimeconfig.json
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\bin\Debug\netcoreapp3.1\RegexLabExercise.runtimeconfig.dev.json
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\bin\Debug\netcoreapp3.1\RegexLabExercise.dll
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\bin\Debug\netcoreapp3.1\RegexLabExercise.pdb
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.csprojAssemblyReference.cache
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.AssemblyInfo.cs
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.dll
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.pdb
+F:\GrandCircus\C#\RegexLabExercise\RegexLabExercise\obj\Debug\netcoreapp3.1\RegexLabExercise.genruntimeconfig.cache
